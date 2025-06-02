@@ -1,0 +1,501 @@
+Interest,Skill,Academic Background,Career Path
+Engineering,Design,Education,Teacher
+Education,Design,Biology,Graphic Designer
+Law,Problem Solving,Law,Lawyer
+Business,Management,Business Administration,Business Analyst
+Law,Design,Fine Arts,Graphic Designer
+Law,Creativity,Law,Lawyer
+Healthcare,Problem Solving,Nursing,Lawyer
+Business,Management,Business Administration,Business Analyst
+Art,Design,Education,Graphic Designer
+Engineering,Problem Solving,Mechanical Engineering,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Science,Research,Computer Science,Research Scientist
+Business,Research,Law,Lawyer
+Art,Design,Fine Arts,Graphic Designer
+Education,Analysis,Education,Teacher
+Law,Problem Solving,Law,Lawyer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Education,Analysis,Education,Teacher
+Law,Problem Solving,Law,Lawyer
+Healthcare,Creativity,Mechanical Engineering,Mechanical Engineer
+Engineering,Management,Law,Mechanical Engineer
+Healthcare,Communication,Nursing,Nurse
+Education,Analysis,Biology,Teacher
+Education,Design,Fine Arts,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Engineering,Management,Law,Teacher
+Law,Analysis,Nursing,Research Scientist
+Art,Research,Education,Graphic Designer
+Education,Analysis,Education,Teacher
+Engineering,Creativity,Business Administration,Mechanical Engineer
+Education,Analysis,Business Administration,Teacher
+Engineering,Creativity,Fine Arts,Mechanical Engineer
+Business,Management,Law,Business Analyst
+Technology,Management,Education,Software Engineer
+Engineering,Analysis,Education,Teacher
+Law,Problem Solving,Law,Lawyer
+Art,Design,Fine Arts,Graphic Designer
+Science,Research,Biology,Research Scientist
+Art,Design,Fine Arts,Graphic Designer
+Engineering,Creativity,Biology,Lawyer
+Art,Design,Fine Arts,Graphic Designer
+Engineering,Management,Mechanical Engineering,Mechanical Engineer
+Business,Management,Business Administration,Business Analyst
+Technology,Programming,Computer Science,Software Engineer
+Engineering,Design,Fine Arts,Graphic Designer
+Technology,Management,Computer Science,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Education,Design,Nursing,Lawyer
+Technology,Programming,Computer Science,Software Engineer
+Art,Design,Fine Arts,Graphic Designer
+Technology,Management,Business Administration,Business Analyst
+Business,Management,Mechanical Engineering,Business Analyst
+Law,Problem Solving,Law,Lawyer
+Science,Research,Law,Research Scientist
+Engineering,Programming,Computer Science,Software Engineer
+Business,Management,Biology,Business Analyst
+Technology,Programming,Computer Science,Software Engineer
+Science,Research,Computer Science,Research Scientist
+Art,Problem Solving,Fine Arts,Graphic Designer
+Engineering,Problem Solving,Mechanical Engineering,Mechanical Engineer
+Healthcare,Communication,Nursing,Nurse
+Education,Analysis,Education,Teacher
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Design,Fine Arts,Graphic Designer
+Art,Programming,Biology,Software Engineer
+Engineering,Creativity,Computer Science,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Science,Research,Nursing,Research Scientist
+Law,Problem Solving,Law,Lawyer
+Education,Design,Education,Teacher
+Education,Analysis,Education,Teacher
+Healthcare,Communication,Law,Nurse
+Healthcare,Communication,Mechanical Engineering,Nurse
+Education,Research,Law,Teacher
+Healthcare,Research,Education,Nurse
+Science,Communication,Nursing,Nurse
+Art,Design,Nursing,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Engineering,Research,Mechanical Engineering,Mechanical Engineer
+Art,Management,Business Administration,Business Analyst
+Art,Design,Fine Arts,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Business,Management,Biology,Business Analyst
+Healthcare,Analysis,Biology,Teacher
+Art,Design,Fine Arts,Graphic Designer
+Business,Management,Business Administration,Business Analyst
+Law,Problem Solving,Law,Lawyer
+Law,Analysis,Education,Teacher
+Healthcare,Communication,Nursing,Nurse
+Law,Problem Solving,Mechanical Engineering,Lawyer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Communication,Education,Teacher
+Education,Analysis,Education,Teacher
+Law,Problem Solving,Fine Arts,Lawyer
+Education,Analysis,Fine Arts,Teacher
+Art,Design,Fine Arts,Graphic Designer
+Business,Design,Fine Arts,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Engineering,Communication,Computer Science,Software Engineer
+Healthcare,Analysis,Nursing,Nurse
+Law,Problem Solving,Law,Lawyer
+Technology,Programming,Computer Science,Software Engineer
+Education,Analysis,Education,Teacher
+Education,Analysis,Education,Teacher
+Technology,Creativity,Law,Software Engineer
+Engineering,Communication,Nursing,Nurse
+Healthcare,Research,Biology,Research Scientist
+Education,Analysis,Education,Teacher
+Business,Management,Business Administration,Business Analyst
+Business,Management,Business Administration,Business Analyst
+Law,Management,Nursing,Lawyer
+Education,Analysis,Education,Teacher
+Technology,Programming,Mechanical Engineering,Software Engineer
+Art,Creativity,Mechanical Engineering,Mechanical Engineer
+Healthcare,Communication,Nursing,Nurse
+Science,Research,Biology,Research Scientist
+Science,Research,Biology,Research Scientist
+Engineering,Design,Fine Arts,Graphic Designer
+Technology,Programming,Fine Arts,Software Engineer
+Art,Design,Fine Arts,Research Scientist
+Business,Management,Law,Business Analyst
+Education,Design,Education,Teacher
+Business,Research,Business Administration,Business Analyst
+Science,Research,Biology,Research Scientist
+Science,Research,Education,Research Scientist
+Law,Problem Solving,Law,Lawyer
+Science,Problem Solving,Biology,Research Scientist
+Science,Creativity,Nursing,Business Analyst
+Education,Creativity,Education,Teacher
+Technology,Programming,Nursing,Software Engineer
+Art,Design,Fine Arts,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Engineering,Analysis,Nursing,Nurse
+Business,Management,Business Administration,Business Analyst
+Technology,Research,Nursing,Software Engineer
+Science,Research,Law,Research Scientist
+Science,Programming,Computer Science,Software Engineer
+Technology,Research,Computer Science,Software Engineer
+Business,Communication,Nursing,Nurse
+Art,Creativity,Fine Arts,Graphic Designer
+Science,Research,Biology,Research Scientist
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Healthcare,Research,Fine Arts,Graphic Designer
+Healthcare,Communication,Nursing,Nurse
+Healthcare,Design,Nursing,Nurse
+Science,Programming,Computer Science,Software Engineer
+Law,Research,Biology,Research Scientist
+Art,Communication,Mechanical Engineering,Nurse
+Technology,Research,Law,Lawyer
+Business,Management,Education,Software Engineer
+Technology,Design,Computer Science,Graphic Designer
+Technology,Programming,Law,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Education,Analysis,Business Administration,Teacher
+Technology,Analysis,Biology,Software Engineer
+Engineering,Research,Biology,Research Scientist
+Law,Management,Nursing,Lawyer
+Technology,Programming,Computer Science,Software Engineer
+Art,Management,Fine Arts,Graphic Designer
+Education,Analysis,Education,Teacher
+Art,Problem Solving,Law,Lawyer
+Healthcare,Problem Solving,Law,Software Engineer
+Law,Analysis,Law,Mechanical Engineer
+Engineering,Creativity,Business Administration,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Design,Fine Arts,Graphic Designer
+Education,Programming,Fine Arts,Software Engineer
+Science,Research,Business Administration,Business Analyst
+Education,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Design,Nursing,Graphic Designer
+Art,Design,Fine Arts,Graphic Designer
+Engineering,Management,Computer Science,Business Analyst
+Technology,Problem Solving,Business Administration,Lawyer
+Business,Management,Business Administration,Business Analyst
+Business,Management,Education,Business Analyst
+Law,Communication,Education,Teacher
+Law,Problem Solving,Mechanical Engineering,Lawyer
+Science,Research,Biology,Research Scientist
+Law,Problem Solving,Law,Lawyer
+Healthcare,Problem Solving,Nursing,Nurse
+Engineering,Communication,Mechanical Engineering,Mechanical Engineer
+Art,Management,Biology,Business Analyst
+Education,Programming,Education,Teacher
+Art,Design,Nursing,Graphic Designer
+Science,Research,Biology,Research Scientist
+Business,Programming,Biology,Business Analyst
+Healthcare,Creativity,Mechanical Engineering,Mechanical Engineer
+Law,Problem Solving,Law,Lawyer
+Healthcare,Problem Solving,Law,Lawyer
+Healthcare,Communication,Mechanical Engineering,Nurse
+Art,Design,Fine Arts,Graphic Designer
+Healthcare,Management,Law,Nurse
+Business,Management,Business Administration,Business Analyst
+Art,Creativity,Fine Arts,Graphic Designer
+Healthcare,Management,Business Administration,Business Analyst
+Education,Analysis,Business Administration,Teacher
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Design,Fine Arts,Graphic Designer
+Science,Research,Biology,Research Scientist
+Business,Management,Fine Arts,Business Analyst
+Business,Management,Business Administration,Business Analyst
+Science,Programming,Biology,Research Scientist
+Science,Research,Biology,Research Scientist
+Art,Design,Education,Graphic Designer
+Engineering,Management,Mechanical Engineering,Mechanical Engineer
+Law,Analysis,Education,Teacher
+Healthcare,Communication,Nursing,Nurse
+Art,Design,Biology,Graphic Designer
+Education,Communication,Education,Teacher
+Healthcare,Communication,Nursing,Nurse
+Healthcare,Communication,Nursing,Nurse
+Education,Analysis,Computer Science,Teacher
+Business,Problem Solving,Law,Lawyer
+Science,Research,Biology,Research Scientist
+Education,Research,Education,Teacher
+Science,Creativity,Biology,Research Scientist
+Law,Management,Nursing,Lawyer
+Education,Communication,Nursing,Nurse
+Technology,Design,Business Administration,Software Engineer
+Art,Research,Biology,Research Scientist
+Business,Research,Business Administration,Business Analyst
+Education,Analysis,Education,Teacher
+Science,Research,Biology,Research Scientist
+Law,Creativity,Mechanical Engineering,Mechanical Engineer
+Healthcare,Management,Nursing,Nurse
+Technology,Programming,Computer Science,Software Engineer
+Art,Analysis,Fine Arts,Graphic Designer
+Art,Design,Nursing,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Education,Analysis,Education,Teacher
+Art,Management,Education,Teacher
+Education,Problem Solving,Biology,Teacher
+Business,Management,Business Administration,Business Analyst
+Business,Management,Business Administration,Business Analyst
+Engineering,Design,Business Administration,Business Analyst
+Law,Problem Solving,Law,Lawyer
+Science,Management,Business Administration,Business Analyst
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Law,Management,Law,Lawyer
+Art,Design,Computer Science,Graphic Designer
+Art,Design,Biology,Graphic Designer
+Technology,Programming,Computer Science,Software Engineer
+Business,Analysis,Biology,Teacher
+Law,Creativity,Law,Business Analyst
+Engineering,Creativity,Fine Arts,Mechanical Engineer
+Healthcare,Design,Nursing,Nurse
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Science,Research,Biology,Research Scientist
+Healthcare,Communication,Nursing,Nurse
+Law,Research,Law,Lawyer
+Business,Management,Biology,Business Analyst
+Law,Problem Solving,Nursing,Lawyer
+Education,Management,Business Administration,Business Analyst
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Healthcare,Communication,Nursing,Nurse
+Healthcare,Design,Fine Arts,Graphic Designer
+Education,Analysis,Computer Science,Teacher
+Art,Management,Fine Arts,Graphic Designer
+Business,Design,Business Administration,Business Analyst
+Science,Research,Mechanical Engineering,Research Scientist
+Education,Problem Solving,Mechanical Engineering,Mechanical Engineer
+Art,Problem Solving,Fine Arts,Graphic Designer
+Law,Research,Computer Science,Lawyer
+Healthcare,Analysis,Computer Science,Graphic Designer
+Business,Management,Business Administration,Business Analyst
+Science,Research,Biology,Research Scientist
+Science,Research,Biology,Research Scientist
+Healthcare,Communication,Nursing,Nurse
+Science,Analysis,Nursing,Nurse
+Education,Analysis,Nursing,Teacher
+Law,Problem Solving,Law,Lawyer
+Law,Problem Solving,Law,Lawyer
+Healthcare,Programming,Nursing,Nurse
+Business,Management,Business Administration,Business Analyst
+Healthcare,Communication,Nursing,Nurse
+Engineering,Research,Biology,Research Scientist
+Law,Research,Law,Lawyer
+Science,Problem Solving,Biology,Research Scientist
+Business,Management,Computer Science,Business Analyst
+Law,Programming,Business Administration,Lawyer
+Art,Communication,Nursing,Nurse
+Engineering,Creativity,Computer Science,Mechanical Engineer
+Engineering,Problem Solving,Mechanical Engineering,Lawyer
+Healthcare,Communication,Mechanical Engineering,Nurse
+Engineering,Communication,Education,Teacher
+Healthcare,Communication,Nursing,Nurse
+Law,Problem Solving,Law,Lawyer
+Education,Problem Solving,Education,Teacher
+Art,Design,Business Administration,Graphic Designer
+Business,Management,Business Administration,Business Analyst
+Healthcare,Communication,Nursing,Nurse
+Law,Problem Solving,Law,Lawyer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Education,Analysis,Mechanical Engineering,Mechanical Engineer
+Law,Problem Solving,Law,Lawyer
+Science,Research,Biology,Research Scientist
+Education,Analysis,Education,Teacher
+Business,Management,Law,Business Analyst
+Business,Creativity,Business Administration,Business Analyst
+Science,Communication,Biology,Research Scientist
+Healthcare,Communication,Nursing,Nurse
+Science,Research,Biology,Research Scientist
+Healthcare,Design,Fine Arts,Graphic Designer
+Art,Design,Fine Arts,Graphic Designer
+Education,Analysis,Computer Science,Teacher
+Science,Research,Biology,Research Scientist
+Law,Management,Law,Lawyer
+Law,Problem Solving,Law,Lawyer
+Business,Analysis,Business Administration,Business Analyst
+Healthcare,Communication,Nursing,Nurse
+Law,Problem Solving,Fine Arts,Lawyer
+Art,Design,Mechanical Engineering,Graphic Designer
+Education,Analysis,Education,Teacher
+Education,Analysis,Business Administration,Teacher
+Technology,Design,Business Administration,Business Analyst
+Healthcare,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Creativity,Computer Science,Software Engineer
+Engineering,Creativity,Education,Mechanical Engineer
+Art,Design,Mechanical Engineering,Graphic Designer
+Technology,Design,Nursing,Nurse
+Art,Design,Fine Arts,Graphic Designer
+Art,Research,Biology,Research Scientist
+Healthcare,Research,Biology,Research Scientist
+Science,Problem Solving,Law,Lawyer
+Business,Research,Business Administration,Business Analyst
+Technology,Management,Computer Science,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Business,Management,Mechanical Engineering,Business Analyst
+Business,Management,Education,Business Analyst
+Art,Problem Solving,Law,Lawyer
+Education,Analysis,Education,Teacher
+Science,Research,Business Administration,Research Scientist
+Healthcare,Design,Fine Arts,Graphic Designer
+Technology,Research,Computer Science,Software Engineer
+Science,Research,Business Administration,Research Scientist
+Engineering,Problem Solving,Mechanical Engineering,Mechanical Engineer
+Law,Problem Solving,Law,Lawyer
+Business,Management,Business Administration,Business Analyst
+Technology,Programming,Law,Software Engineer
+Education,Programming,Computer Science,Research Scientist
+Law,Problem Solving,Law,Lawyer
+Science,Research,Biology,Research Scientist
+Healthcare,Communication,Nursing,Nurse
+Healthcare,Management,Mechanical Engineering,Nurse
+Law,Management,Nursing,Lawyer
+Technology,Research,Biology,Software Engineer
+Healthcare,Communication,Law,Nurse
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Design,Law,Graphic Designer
+Science,Research,Nursing,Research Scientist
+Healthcare,Programming,Law,Lawyer
+Healthcare,Research,Biology,Research Scientist
+Business,Research,Business Administration,Business Analyst
+Art,Design,Fine Arts,Graphic Designer
+Healthcare,Analysis,Nursing,Nurse
+Science,Research,Nursing,Research Scientist
+Education,Programming,Nursing,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Technology,Analysis,Computer Science,Software Engineer
+Healthcare,Creativity,Business Administration,Nurse
+Education,Programming,Business Administration,Teacher
+Science,Research,Biology,Research Scientist
+Art,Creativity,Education,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Law,Problem Solving,Law,Lawyer
+Science,Research,Biology,Research Scientist
+Engineering,Communication,Nursing,Nurse
+Healthcare,Management,Nursing,Nurse
+Science,Management,Business Administration,Business Analyst
+Law,Problem Solving,Law,Lawyer
+Business,Management,Business Administration,Business Analyst
+Art,Programming,Fine Arts,Graphic Designer
+Science,Management,Business Administration,Business Analyst
+Business,Management,Business Administration,Business Analyst
+Engineering,Communication,Mechanical Engineering,Mechanical Engineer
+Technology,Programming,Computer Science,Software Engineer
+Education,Analysis,Biology,Teacher
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Art,Design,Business Administration,Graphic Designer
+Law,Research,Nursing,Nurse
+Technology,Programming,Computer Science,Software Engineer
+Business,Management,Business Administration,Business Analyst
+Technology,Creativity,Biology,Software Engineer
+Law,Problem Solving,Law,Lawyer
+Engineering,Creativity,Biology,Mechanical Engineer
+Technology,Research,Law,Lawyer
+Business,Research,Fine Arts,Research Scientist
+Engineering,Communication,Biology,Nurse
+Science,Creativity,Nursing,Mechanical Engineer
+Law,Communication,Law,Lawyer
+Education,Programming,Computer Science,Teacher
+Science,Research,Nursing,Research Scientist
+Science,Research,Biology,Research Scientist
+Science,Design,Biology,Research Scientist
+Healthcare,Programming,Nursing,Nurse
+Engineering,Management,Mechanical Engineering,Mechanical Engineer
+Business,Communication,Nursing,Nurse
+Engineering,Programming,Nursing,Mechanical Engineer
+Engineering,Creativity,Education,Mechanical Engineer
+Healthcare,Design,Law,Nurse
+Education,Analysis,Education,Teacher
+Healthcare,Communication,Computer Science,Nurse
+Education,Design,Biology,Research Scientist
+Education,Management,Nursing,Business Analyst
+Technology,Programming,Computer Science,Software Engineer
+Science,Creativity,Biology,Research Scientist
+Law,Problem Solving,Nursing,Lawyer
+Science,Research,Biology,Research Scientist
+Healthcare,Communication,Law,Nurse
+Healthcare,Management,Nursing,Nurse
+Art,Design,Fine Arts,Graphic Designer
+Technology,Programming,Education,Software Engineer
+Law,Problem Solving,Law,Lawyer
+Education,Creativity,Mechanical Engineering,Software Engineer
+Engineering,Creativity,Education,Mechanical Engineer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Education,Programming,Computer Science,Software Engineer
+Law,Problem Solving,Law,Lawyer
+Art,Creativity,Fine Arts,Graphic Designer
+Science,Programming,Biology,Research Scientist
+Technology,Programming,Computer Science,Software Engineer
+Healthcare,Communication,Nursing,Nurse
+Law,Problem Solving,Business Administration,Lawyer
+Law,Programming,Education,Teacher
+Art,Design,Fine Arts,Graphic Designer
+Education,Analysis,Education,Teacher
+Science,Creativity,Mechanical Engineering,Mechanical Engineer
+Science,Programming,Computer Science,Software Engineer
+Education,Analysis,Education,Teacher
+Healthcare,Design,Nursing,Nurse
+Science,Research,Law,Research Scientist
+Technology,Programming,Computer Science,Software Engineer
+Education,Analysis,Education,Teacher
+Art,Design,Fine Arts,Graphic Designer
+Law,Problem Solving,Law,Lawyer
+Healthcare,Communication,Nursing,Nurse
+Business,Communication,Business Administration,Business Analyst
+Education,Analysis,Education,Teacher
+Engineering,Analysis,Mechanical Engineering,Mechanical Engineer
+Business,Management,Business Administration,Business Analyst
+Technology,Communication,Nursing,Nurse
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Education,Research,Education,Teacher
+Art,Research,Biology,Research Scientist
+Healthcare,Creativity,Computer Science,Software Engineer
+Education,Analysis,Education,Teacher
+Technology,Analysis,Computer Science,Software Engineer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Business,Management,Business Administration,Business Analyst
+Engineering,Management,Mechanical Engineering,Mechanical Engineer
+Business,Programming,Biology,Research Scientist
+Technology,Programming,Biology,Nurse
+Science,Creativity,Biology,Research Scientist
+Business,Problem Solving,Business Administration,Business Analyst
+Technology,Communication,Computer Science,Software Engineer
+Technology,Programming,Computer Science,Software Engineer
+Education,Programming,Mechanical Engineering,Teacher
+Science,Research,Biology,Research Scientist
+Healthcare,Communication,Nursing,Nurse
+Healthcare,Management,Law,Software Engineer
+Education,Analysis,Education,Teacher
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Business,Management,Business Administration,Business Analyst
+Education,Communication,Nursing,Nurse
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Law,Research,Biology,Research Scientist
+Law,Problem Solving,Law,Lawyer
+Healthcare,Communication,Law,Nurse
+Law,Problem Solving,Law,Lawyer
+Education,Problem Solving,Education,Teacher
+Healthcare,Problem Solving,Nursing,Nurse
+Healthcare,Research,Nursing,Nurse
+Science,Management,Business Administration,Business Analyst
+Business,Management,Law,Business Analyst
+Business,Management,Business Administration,Business Analyst
+Education,Analysis,Education,Teacher
+Art,Design,Fine Arts,Graphic Designer
+Law,Problem Solving,Business Administration,Lawyer
+Art,Design,Fine Arts,Graphic Designer
+Engineering,Creativity,Mechanical Engineering,Mechanical Engineer
+Education,Analysis,Mechanical Engineering,Teacher
+Science,Research,Biology,Research Scientist
+Art,Research,Mechanical Engineering,Mechanical Engineer
+Healthcare,Analysis,Fine Arts,Graphic Designer
+Engineering,Analysis,Mechanical Engineering,Business Analyst
+Technology,Programming,Fine Arts,Software Engineer
+Science,Research,Biology,Research Scientist
+Art,Design,Business Administration,Graphic Designer
+Art,Design,Fine Arts,Graphic Designer
+Healthcare,Communication,Nursing,Nurse
+Education,Analysis,Biology,Teacher
+Healthcare,Research,Mechanical Engineering,Mechanical Engineer
+Art,Design,Fine Arts,Graphic Designer
