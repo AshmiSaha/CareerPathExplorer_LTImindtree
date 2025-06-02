@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Career Path Explorer</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+    <style>
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #c7d2fe 0%, #fbcfe8 50%, #f3e8ff 100%);
+            font-family: 'Roboto', Arial, sans-serif;
+        }
+        .card {
+            border-radius: 2rem;
+            box-shadow: 0 6px 32px rgba(99,102,241,0.10), 0 1.5px 6px rgba(236,72,153,0.08);
+            background: #e1f5ff;
+            border: 2px solid #a5b4fc;
+            width: 100%;
+            max-width: 700px;
+        }
+        @media (max-width: 900px) {
+            .card { max-width: 95vw; }
+        }
+        @media (max-width: 600px) {
+            .card { padding: 1.2rem !important; }
+            .result-box { padding: 1rem 0.5rem; font-size: 1rem; }
+            .app-title { font-size: 1.5rem; }
+        }
+        .form-label {
+            font-weight: 600;
+            color: #4f46e5;
+        }
+        .btn-gradient {
+            background: linear-gradient(90deg, #6366f1 0%, #a21caf 50%, #ec4899 100%);
+            color: #fff;
+            font-weight: 600;
+            border: none;
+            border-radius: 1rem;
+            padding: 0.75rem 2rem;
+            font-size: 1.1rem;
+            box-shadow: 0 2px 8px rgba(99,102,241,0.10);
+            transition: background 0.3s;
+        }
+        .btn-gradient:hover {
+            background: linear-gradient(90deg, #a21caf 0%, #6366f1 50%, #ec4899 100%);
+        }
+        .app-title {
+            font-weight: 800;
+            letter-spacing: 1px;
+            color: #7c3aed;
+            background: linear-gradient(90deg, #6366f1 0%, #a21caf 50%, #ec4899 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+        .result-box {
+            background: #f3e8ff;
+            border: 2px solid #a5b4fc;
+            border-radius: 1.5rem;
+            padding: 2rem 2.5rem;
+            margin-top: 1.5rem;
+            box-shadow: 0 2px 8px rgba(99,102,241,0.08);
+            color: #312e81;
+            font-size: 1.15rem;
+            font-family: 'Roboto', Arial, sans-serif;
+            max-height: 400px;
+            overflow-y: auto;
+            line-height: 1.7;
+            letter-spacing: 0.01em;
+            width: 100%;
+        }
+        .result-box h2, .result-box h3, .result-box h4, .result-box h5 {
+            color: #7c3aed;
+            margin-top: 1.2em;
+            margin-bottom: 0.5em;
+            font-weight: 700;
+        }
+        .result-box strong, .result-box b {
+            color: #a21caf;
+        }
+        .result-box ul, .result-box ol {
+            margin-left: 1.5em;
+        }
+        .result-box pre {
+            background: none;
+            border: none;
+            font-size: 1.1rem;
+            color: inherit;
+            font-family: inherit;
+            padding: 0;
+            margin: 0;
+        }
+        .result-box code {
+            background: #ede9fe;
+            color: #a21caf;
+            border-radius: 0.3em;
+            padding: 0.1em 0.3em;
+        }
+        .select-language {
+            border-radius: 0.75rem;
+            border: 2px solid #a5b4fc;
+            font-weight: 500;
+        }
+        .textarea-custom {
+            border-radius: 0.75rem;
+            border: 2px solid #a5b4fc;
+            min-height: 60px;
+            width: 100%;
+        }
+        .thankyou {
+            color: #a21caf;
+            font-style: italic;
+            font-size: 0.95rem;
+        }
+    </style>
+</head>
+<body>
+{% macro render_result(result) %}
+    {%- set html = result %}
+    {# Convert Markdown-style headings and bold to HTML #}
+    {# Convert lines starting with ** to <h4> #}
+    {%- set html = html.replace('\n**', '\n<h4>').replace('**\n', '</h4>\n') %}
+    {# Convert lines starting with * to <h5> (if not already a heading) #}
+    {%- set html = html.replace('\n*   ', '\n<h5>').replace('\n* ', '\n<h5>') %}
+    {%- set html = html.replace('\n', '</h5>\n') %}
+    {# Convert remaining **text** to <strong>text</strong> #}
+    {%- set html = html.replace('**', '<strong>').replace('**', '</strong>') %}
+    {{ html | safe }}
+{% endmacro %}
+<div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh;">
+    <div class="row w-100 justify-content-center">
+        <div class="col-12 col-md-10 col-lg-8 d-flex justify-content-center">
+            <div class="card p-5 w-100">
+                <h1 class="mb-4 text-center app-title">Career Path Explorer</h1>
+                <form method="post" action="/" id="careerForm">
+                    <div class="mb-3">
+                        <label for="language" class="form-label">Preferred Language</label>
+                        <select class="form-select select-language" id="language" name="language" required>
+                            <option value="en">English</option>
+                            <option value="hi">Hindi</option>
+                            <option value="bn">Bengali</option>
+                            <option value="te">Telugu</option>
+                            <option value="mr">Marathi</option>
+                            <option value="ta">Tamil</option>
+                            <option value="gu">Gujarati</option>
+                            <option value="kn">Kannada</option>
+                            <option value="ml">Malayalam</option>
+                            <option value="pa">Punjabi</option>
+                            <option value="or">Odia</option>
+                            <option value="as">Assamese</option>
+                            <option value="ur">Urdu</option>
+                            <option value="es">Spanish</option>
+                            <option value="fr">French</option>
+                            <option value="de">German</option>
+                            <option value="zh-CN">Chinese (Simplified)</option>
+                            <option value="ar">Arabic</option>
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label for="interest" class="form-label">Your Interests</label>
+                        <textarea class="form-control textarea-custom" id="interest" name="interest" placeholder="e.g. Technology, Design, Helping others" required>{{ user_interest }}</textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="skill" class="form-label">Your Skills</label>
+                        <textarea class="form-control textarea-custom" id="skill" name="skill" placeholder="e.g. Programming, Writing, Leadership" required>{{ user_skill }}</textarea>
+                    </div>
+                    <div class="mb-3">
+                        <label for="academic" class="form-label">Academic Background</label>
+                        <textarea class="form-control textarea-custom" id="academic" name="academic" placeholder="e.g. B.Sc. in Computer Science, 85% in 12th Grade" required>{{ user_academic }}</textarea>
+                    </div>
+                    <div class="d-grid gap-2 mt-4">
+                        <button type="submit" class="btn btn-gradient btn-lg">
+                            <i class="bi bi-magic"></i> Explore Career Paths
+                        </button>
+                    </div>
+                </form>
+                {% if result %}
+                <div class="result-box mt-4">
+                    <h5 class="mb-1 text-success" style="margin-bottom:0.2rem !important;"><i class="bi bi-lightbulb"></i> Suggested Career Path</h5>
+                    <div style="white-space: pre-line; font-size: 1.1rem; background: none; border: none; margin-top:0; padding-top:0;">
+                        {{ render_result(result).lstrip() }}
+                    </div>
+                </div>
+                {% endif %}
+                <p class="thankyou text-center mt-4">Thank you for using Career Path Explorer.</p>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
